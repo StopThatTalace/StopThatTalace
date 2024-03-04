@@ -9,7 +9,7 @@ Student in web development the day, lover of info-sec by night!
 
 ## 🐬 Github's stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StopThatTalace&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StopThatTalace&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StopThatTalace&layout=compact&theme=radical)
 
 ## 😼 CTF Platform
 
