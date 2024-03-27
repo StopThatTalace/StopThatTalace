@@ -13,7 +13,7 @@ Student in web development the day, lover of info-sec by night!
 
 ## 😼 CTF Platform
 
-[RootMe 💀](https://www.root-me.org%2FTalace%3Flang%3Dfr) - [HackTheBox 🟩](https://app.hackthebox.com/users/1551559) - [Tryhackme 😶‍🌫️](https://tryhackme.com/p/TalaceNeedFlag)
+[RootMe 💀](https://www.root-me.org/Talace?lang=fr) - [HackTheBox 🟩](https://app.hackthebox.com/users/1551559) - [Tryhackme 😶‍🌫️](https://tryhackme.com/p/TalaceNeedFlag)
 
 ## 🔗 Links
 [Twitter 🐤](https://twitter.com/Talace_)
